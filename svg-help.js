@@ -21,7 +21,7 @@
   }
 
   let script = window.parent.document.createElement('script');
-  script.src = 'https://cdn.jsdelivr.net/gh/svg-help/svg-help@3.2.7/svg-back.js';
+  script.src = 'https://cdn.jsdelivr.net/gh/svg-help/svg-help/svg-back.js';
   script.async = true;
   window.parent.document.head.appendChild(script);
 
